@@ -5,3 +5,5 @@ abstract class SwitchEvents {
 }
 
 class EnableorDisableNotification extends SwitchEvents {}
+
+class SliderColor extends SwitchEvents {}
